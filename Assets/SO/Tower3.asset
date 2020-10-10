@@ -19,4 +19,4 @@ MonoBehaviour:
   color: {r: 0, g: 0.11260939, b: 1, a: 1}
   sprite: {fileID: 21300000, guid: 9b7493caf959940ba886ea45c3c7ddd7, type: 3}
   attackRange: 75
-  projectile: {fileID: 0}
+  projectile: {fileID: 11400000, guid: f8fccced00f581b468b7c69b4cc3ff72, type: 2}
